@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_513020_ea_enga_0.workspaceStarterExpUtils</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>workspaceStarterExpUtils</name>
+        <script><![CDATA[var workspaceStarterExpUtils = Class.create();
+workspaceStarterExpUtils.prototype = {
+    initialize: function() {},
+
+    checkContextualConfig: function(tableName) {
+
+        //To check Agent assist is configured for current table on workspace
+
+        var gr = new GlideRecord('cxs_table_config');
+        gr.addQuery('table', '=', tableName);
+        gr.addQuery('ui_type', '=', 'workspace');
+        gr.query();
+        if (gr.next()) {
+            return true;
+        } else {
+            return false;
+        }
+    },
+    type: 'workspaceStarterExpUtils'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-03 09:23:51</sys_created_on>
+        <sys_id>1d0ec045b80241107f337e96034b6c9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>workspaceStarterExpUtils</sys_name>
+        <sys_package display_value="EA Engagement" source="x_513020_ea_enga_0">d1a47fb82f8e011086f2b8e72799b6bf</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="EA Engagement">d1a47fb82f8e011086f2b8e72799b6bf</sys_scope>
+        <sys_update_name>sys_script_include_1d0ec045b80241107f337e96034b6c9f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-03 09:23:51</sys_updated_on>
+    </sys_script_include>
+</record_update>

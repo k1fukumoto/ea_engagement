@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="EA engagement request">cc4804cd2fce011086f2b8e72799b649</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-03 09:05:11</sys_created_on>
+        <sys_id>54c9cc012f02411086f2b8e72799b66a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EA engagement request.Any User</sys_name>
+        <sys_package display_value="EA Engagement" source="x_513020_ea_enga_0">d1a47fb82f8e011086f2b8e72799b6bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EA Engagement">d1a47fb82f8e011086f2b8e72799b6bf</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_54c9cc012f02411086f2b8e72799b66a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-03 09:05:11</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EA Engagement">d1a47fb82f8e011086f2b8e72799b6bf</application>
+        <file_path/>
+        <instance_id>cc5ad55fdbaf5f887d8cf22ebf961978</instance_id>
+        <instance_name>dev68328</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_54c9cc012f02411086f2b8e72799b66a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="EA engagement request">cc4804cd2fce011086f2b8e72799b649</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-03 09:05:11</sys_created_on><sys_id>54c9cc012f02411086f2b8e72799b66a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>EA engagement request.Any User</sys_name><sys_package display_value="EA Engagement" source="x_513020_ea_enga_0">d1a47fb82f8e011086f2b8e72799b6bf</sys_package><sys_policy/><sys_scope display_value="EA Engagement">d1a47fb82f8e011086f2b8e72799b6bf</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_54c9cc012f02411086f2b8e72799b66a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-03 09:05:11</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>-2073295403</payload_hash>
+        <record_name>EA engagement request.Any User</record_name>
+        <reverted_from/>
+        <source>d9aa7b7c2f8e011086f2b8e72799b640</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-03 09:05:11</sys_created_on>
+        <sys_id>a0c9cc012f02411086f2b8e72799b66e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17f4f06ad150000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-03 09:05:11</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>28c9cc01b00241102024db5d0ea53b6d</update_guid>
+        <update_guid_history>28c9cc01b00241102024db5d0ea53b6d:-2073295403</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="EA engagement request.Any User">cad940412f02411086f2b8e72799b627</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-03 09:05:34</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>81c6b16218f44da484686ec39cfcd279</sys_id>
+        <sys_metadata>54c9cc012f02411086f2b8e72799b66a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EA engagement request.Any User</sys_name>
+        <sys_package display_value="EA Engagement" source="x_513020_ea_enga_0">d1a47fb82f8e011086f2b8e72799b6bf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="EA Engagement">d1a47fb82f8e011086f2b8e72799b6bf</sys_scope>
+        <sys_scope_delete display_value="">3c73c119632544ccb51dcfea68920610</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_54c9cc012f02411086f2b8e72799b66a</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_54c9cc012f02411086f2b8e72799b66a">a0c9cc012f02411086f2b8e72799b66e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-03 09:05:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

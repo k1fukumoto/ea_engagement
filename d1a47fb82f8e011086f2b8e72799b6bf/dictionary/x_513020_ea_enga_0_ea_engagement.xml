@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="EA engagement" max_length="40" name="x_513020_ea_enga_0_ea_engagement" type="collection">
+    <element label="EA engagement" max_length="40" name="x_513020_ea_enga_0_ea_engagement" sizeclass="2" type="collection">
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-        <element label="Type" max_length="32" name="type" reference="x_513020_ea_enga_0_ea_engagement_type" type="reference"/>
+        <element label="Requester" max_length="32" name="requester" reference="sys_user" type="reference"/>
+        <element choice="3" default="Executive Engagement" display="true" label="Type" mandatory="true" max_length="40" name="type" reference="x_513020_ea_enga_0_ea_engagement_type" type="reference">
+            <choice/>
+        </element>
         <index name="index">
+            <element name="requester"/>
+        </index>
+        <index name="index2">
             <element name="type"/>
         </index>
     </element>
