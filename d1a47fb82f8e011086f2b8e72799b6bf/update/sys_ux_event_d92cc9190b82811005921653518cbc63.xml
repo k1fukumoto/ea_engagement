@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>NOW_UXF_PAGE#ADD_NOTIFICATIONS_RELAY_d52cc919678281105216872a1de11e63</event_name>
+        <interfaces/>
+        <label>Page Add Notifications Relay (Preferences Default)</label>
+        <props>[{"name":"items","fieldType":"json","interfaceApiName":null,"label":"Items"}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-03-04 08:33:46</sys_created_on>
+        <sys_id>d92cc9190b82811005921653518cbc63</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Page Add Notifications Relay (Preferences Default)</sys_name>
+        <sys_package display_value="EA Engagement" source="x_513020_ea_enga_0">d1a47fb82f8e011086f2b8e72799b6bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EA Engagement">d1a47fb82f8e011086f2b8e72799b6bf</sys_scope>
+        <sys_update_name>sys_ux_event_d92cc9190b82811005921653518cbc63</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-03-04 08:33:46</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=d92cc9190b82811005921653518cbc63"/>
+</record_update>

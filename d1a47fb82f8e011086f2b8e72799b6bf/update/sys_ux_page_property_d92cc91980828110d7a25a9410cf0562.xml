@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>enable_login_modal</name>
+        <page display_value="EA Engagement Portal">192cc919c7828110ea4c8c668d10c860</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-03-04 08:33:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>d92cc91980828110d7a25a9410cf0562</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>enable_login_modal</sys_name>
+        <sys_package display_value="EA Engagement" source="x_513020_ea_enga_0">d1a47fb82f8e011086f2b8e72799b6bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EA Engagement">d1a47fb82f8e011086f2b8e72799b6bf</sys_scope>
+        <sys_update_name>sys_ux_page_property_d92cc91980828110d7a25a9410cf0562</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-03-04 08:33:46</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_513020_ea_enga_0.192cc919c7828110ea4c8c668d10c860.root.enable_login_modal</unique_name>
+        <value>{&#13;
+	"enabled":false&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=d92cc91980828110d7a25a9410cf0562"/>
+</record_update>

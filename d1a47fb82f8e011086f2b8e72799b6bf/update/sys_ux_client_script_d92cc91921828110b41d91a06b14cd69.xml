@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Article page">592cc919f7828110f93a8c32842f9a6a</macroponent>
+        <name>Show Submit Comment Alert</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({
+    api
+}) {
+    api.emit("NOW_UXF_PAGE#ADD_NOTIFICATIONS", {
+        items: [{
+            id: "submitCommentAlert",
+            status: "info",
+            icon: "info-circle-outline",
+            content: "Comment posted.",
+            action: {
+                type: "dismiss"
+            }
+        }],
+    });
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-03-04 08:33:50</sys_created_on>
+        <sys_id>d92cc91921828110b41d91a06b14cd69</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Show Submit Comment Alert</sys_name>
+        <sys_package display_value="EA Engagement" source="x_513020_ea_enga_0">d1a47fb82f8e011086f2b8e72799b6bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EA Engagement">d1a47fb82f8e011086f2b8e72799b6bf</sys_scope>
+        <sys_update_name>sys_ux_client_script_d92cc91921828110b41d91a06b14cd69</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-03-04 08:33:50</sys_updated_on>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

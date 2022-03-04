@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="EA Engagement Portal Config">d52cc9191b82811047a216d9f147da60</app_config>
+        <description/>
+        <fields>sysId</fields>
+        <icon/>
+        <name>Article page</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>article</route_type>
+        <screen_type display_value="Article page">192cc9195c828110edbdcc4c07064a6c</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-03-04 08:33:51</sys_created_on>
+        <sys_id>992cc9197c828110751f5483f704e46c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Article page</sys_name>
+        <sys_package display_value="EA Engagement" source="x_513020_ea_enga_0">d1a47fb82f8e011086f2b8e72799b6bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EA Engagement">d1a47fb82f8e011086f2b8e72799b6bf</sys_scope>
+        <sys_update_name>sys_ux_app_route_992cc9197c828110751f5483f704e46c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-03-04 08:33:51</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=992cc9197c828110751f5483f704e46c"/>
+</record_update>

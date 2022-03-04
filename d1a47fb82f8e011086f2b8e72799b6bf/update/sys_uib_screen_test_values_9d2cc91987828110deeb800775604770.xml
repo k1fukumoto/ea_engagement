@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+  "sysId" : "aeed229047801200e0ef563dbb9a71c2",
+  "table" : "sc_req_item"
+}</macroponent_config>
+        <screen display_value="Record Page(request) Default">992cc91917828110c58d4bcefc0a6f70</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-03-04 08:33:47</sys_created_on>
+        <sys_id>9d2cc91987828110deeb800775604770</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="EA Engagement" source="x_513020_ea_enga_0">d1a47fb82f8e011086f2b8e72799b6bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EA Engagement">d1a47fb82f8e011086f2b8e72799b6bf</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_9d2cc91987828110deeb800775604770</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-03-04 08:33:47</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>
