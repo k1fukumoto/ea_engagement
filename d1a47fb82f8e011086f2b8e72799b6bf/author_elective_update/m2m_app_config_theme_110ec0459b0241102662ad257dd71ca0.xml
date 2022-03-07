@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-03 09:23:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>110ec0459b0241102662ad257dd71ca0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="EA Engagement" source="x_513020_ea_enga_0">d1a47fb82f8e011086f2b8e72799b6bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EA Engagement">d1a47fb82f8e011086f2b8e72799b6bf</sys_scope>
+        <sys_update_name>m2m_app_config_theme_110ec0459b0241102662ad257dd71ca0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-03 09:23:50</sys_updated_on>
+        <theme display_value="Starter Workspace Theme">510ec04508024110de03a2399b8527a0</theme>
+        <ux_app_configuration display_value="EA Engagement Workspace Config">9d0ec04529024110e814fe9450c95f9f</ux_app_configuration>
+    </m2m_app_config_theme>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EA Engagement">d1a47fb82f8e011086f2b8e72799b6bf</application>
+        <file_path/>
+        <instance_id>cc5ad55fdbaf5f887d8cf22ebf961978</instance_id>
+        <instance_name>dev68328</instance_name>
+        <name>m2m_app_config_theme_110ec0459b0241102662ad257dd71ca0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-03 09:23:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>110ec0459b0241102662ad257dd71ca0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="EA Engagement" source="x_513020_ea_enga_0">d1a47fb82f8e011086f2b8e72799b6bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EA Engagement">d1a47fb82f8e011086f2b8e72799b6bf</sys_scope>
+        <sys_update_name>m2m_app_config_theme_110ec0459b0241102662ad257dd71ca0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-03 09:23:50</sys_updated_on>
+        <theme display_value="Starter Workspace Theme">510ec04508024110de03a2399b8527a0</theme>
+        <ux_app_configuration display_value="EA Engagement Workspace Config">9d0ec04529024110e814fe9450c95f9f</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>]]></payload>
+        <payload_hash>-936693526</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>3b6a078a2f82011086f2b8e72799b611</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-07 01:41:07</sys_created_on>
+        <sys_id>d67a878a2f82011086f2b8e72799b654</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17f62098baa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-07 01:41:07</sys_updated_on>
+        <type>UX App Theme</type>
+        <update_guid>167a878a9c82011000568e1a94fd8654</update_guid>
+        <update_guid_history>167a878a9c82011000568e1a94fd8654:0,d8f2cb0253820110d62b40636fe79f5f:-635165781,50f2cb0229820110068fae6b8009235c:-1407479550</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">73ac4f4e2f82011086f2b8e72799b65c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-07 01:50:46</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>006fe8d64440408e800a823eb255f744</sys_id>
+        <sys_metadata>110ec0459b0241102662ad257dd71ca0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="EA Engagement" source="x_513020_ea_enga_0">d1a47fb82f8e011086f2b8e72799b6bf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="EA Engagement">d1a47fb82f8e011086f2b8e72799b6bf</sys_scope>
+        <sys_scope_delete display_value="">3c73c119632544ccb51dcfea68920610</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_110ec0459b0241102662ad257dd71ca0</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_110ec0459b0241102662ad257dd71ca0">d67a878a2f82011086f2b8e72799b654</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-07 01:50:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>d52cc9191b82811047a216d9f147da60</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <parent_app/>
+        <path>ea-engagement-portal</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-03-04 08:33:51</sys_created_on>
+        <sys_id>192cc919c7828110ea4c8c668d10c860</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EA Engagement Portal</sys_name>
+        <sys_package display_value="EA Engagement" source="x_513020_ea_enga_0">d1a47fb82f8e011086f2b8e72799b6bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EA Engagement">d1a47fb82f8e011086f2b8e72799b6bf</sys_scope>
+        <sys_update_name>sys_ux_page_registry_192cc919c7828110ea4c8c668d10c860</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-03-04 08:33:51</sys_updated_on>
+        <title>EA Engagement Portal</title>
+    </sys_ux_page_registry>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EA Engagement">d1a47fb82f8e011086f2b8e72799b6bf</application>
+        <file_path/>
+        <instance_id>cc5ad55fdbaf5f887d8cf22ebf961978</instance_id>
+        <instance_name>dev68328</instance_name>
+        <name>sys_ux_page_registry_192cc919c7828110ea4c8c668d10c860</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>d52cc9191b82811047a216d9f147da60</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <parent_app/>
+        <path>ea-engagement-portal</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-03-04 08:33:51</sys_created_on>
+        <sys_id>192cc919c7828110ea4c8c668d10c860</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EA Engagement Portal</sys_name>
+        <sys_package display_value="EA Engagement" source="x_513020_ea_enga_0">d1a47fb82f8e011086f2b8e72799b6bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EA Engagement">d1a47fb82f8e011086f2b8e72799b6bf</sys_scope>
+        <sys_update_name>sys_ux_page_registry_192cc919c7828110ea4c8c668d10c860</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-03-04 08:33:51</sys_updated_on>
+        <title>EA Engagement Portal</title>
+    </sys_ux_page_registry>
+</record_update>]]></payload>
+        <payload_hash>-1044480813</payload_hash>
+        <record_name>EA Engagement Portal</record_name>
+        <reverted_from/>
+        <source>3b6a078a2f82011086f2b8e72799b611</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-07 01:41:36</sys_created_on>
+        <sys_id>6d9a03ca2f82011086f2b8e72799b675</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17f6209fcfa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-07 01:41:36</sys_updated_on>
+        <type>UX Application</type>
+        <update_guid>a99a03cac88201103e7a28afd9f97f75</update_guid>
+        <update_guid_history>a99a03cac88201103e7a28afd9f97f75:0,5e9366e1670201106e44be52ba1aeb91:-1501582335,bd93a2e1cd020110b1b61b7161df528f:2033335393</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-07 01:50:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>0516812e500a4eef802c3aa8dceb9949</sys_id>
+        <sys_metadata>192cc919c7828110ea4c8c668d10c860</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EA Engagement Portal</sys_name>
+        <sys_package display_value="EA Engagement" source="x_513020_ea_enga_0">d1a47fb82f8e011086f2b8e72799b6bf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="EA Engagement">d1a47fb82f8e011086f2b8e72799b6bf</sys_scope>
+        <sys_scope_delete display_value="">3c73c119632544ccb51dcfea68920610</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_192cc919c7828110ea4c8c668d10c860</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_192cc919c7828110ea4c8c668d10c860">6d9a03ca2f82011086f2b8e72799b675</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-07 01:50:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

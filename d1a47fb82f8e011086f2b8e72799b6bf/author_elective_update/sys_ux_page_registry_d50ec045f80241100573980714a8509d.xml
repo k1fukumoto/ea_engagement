@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>9d0ec04529024110e814fe9450c95f9f</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app/>
+        <path>ea-engagement-workspace</path>
+        <root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-03 09:23:50</sys_created_on>
+        <sys_id>d50ec045f80241100573980714a8509d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EA Engagement Workspace</sys_name>
+        <sys_package display_value="EA Engagement" source="x_513020_ea_enga_0">d1a47fb82f8e011086f2b8e72799b6bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EA Engagement">d1a47fb82f8e011086f2b8e72799b6bf</sys_scope>
+        <sys_update_name>sys_ux_page_registry_d50ec045f80241100573980714a8509d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-03 09:23:50</sys_updated_on>
+        <title>EA Engagement Workspace</title>
+    </sys_ux_page_registry>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EA Engagement">d1a47fb82f8e011086f2b8e72799b6bf</application>
+        <file_path/>
+        <instance_id>cc5ad55fdbaf5f887d8cf22ebf961978</instance_id>
+        <instance_name>dev68328</instance_name>
+        <name>sys_ux_page_registry_d50ec045f80241100573980714a8509d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>9d0ec04529024110e814fe9450c95f9f</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app/>
+        <path>ea-engagement-workspace</path>
+        <root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-03 09:23:50</sys_created_on>
+        <sys_id>d50ec045f80241100573980714a8509d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EA Engagement Workspace</sys_name>
+        <sys_package display_value="EA Engagement" source="x_513020_ea_enga_0">d1a47fb82f8e011086f2b8e72799b6bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EA Engagement">d1a47fb82f8e011086f2b8e72799b6bf</sys_scope>
+        <sys_update_name>sys_ux_page_registry_d50ec045f80241100573980714a8509d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-03 09:23:50</sys_updated_on>
+        <title>EA Engagement Workspace</title>
+    </sys_ux_page_registry>
+</record_update>]]></payload>
+        <payload_hash>-293515302</payload_hash>
+        <record_name>EA Engagement Workspace</record_name>
+        <reverted_from/>
+        <source>3b6a078a2f82011086f2b8e72799b611</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-07 01:41:36</sys_created_on>
+        <sys_id>6d9a03ca2f82011086f2b8e72799b679</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17f6209fd280000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-07 01:41:36</sys_updated_on>
+        <type>UX Application</type>
+        <update_guid>a99a03ca038201107629d444e146f679</update_guid>
+        <update_guid_history>a99a03ca038201107629d444e146f679:0,3c45a26520020110fb725644c70868cf:-683722219,17352a250302011005680edbb7f7cb6a:1352320166</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-07 01:50:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>d9367be083b044faa4f928bbcbec3111</sys_id>
+        <sys_metadata>d50ec045f80241100573980714a8509d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EA Engagement Workspace</sys_name>
+        <sys_package display_value="EA Engagement" source="x_513020_ea_enga_0">d1a47fb82f8e011086f2b8e72799b6bf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="EA Engagement">d1a47fb82f8e011086f2b8e72799b6bf</sys_scope>
+        <sys_scope_delete display_value="">3c73c119632544ccb51dcfea68920610</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_d50ec045f80241100573980714a8509d</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_d50ec045f80241100573980714a8509d">6d9a03ca2f82011086f2b8e72799b679</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-07 01:50:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

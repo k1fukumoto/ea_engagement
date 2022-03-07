@@ -4,7 +4,7 @@
         <element display="true" label="Due Date" max_length="40" name="due_date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" mandatory="true" max_length="40" name="number" type="string"/>
         <element label="Requester" max_length="32" name="requester" reference="sys_user" type="reference"/>
-        <element choice="3" default="Executive Engagement" label="Type" mandatory="true" max_length="40" name="type" reference="x_513020_ea_enga_0_ea_engagement_type" type="reference">
+        <element choice="3" default="Architecture Design" label="Type" mandatory="true" max_length="40" name="type" reference="x_513020_ea_enga_0_ea_engagement_type" type="reference">
             <choice/>
         </element>
         <index name="index">
