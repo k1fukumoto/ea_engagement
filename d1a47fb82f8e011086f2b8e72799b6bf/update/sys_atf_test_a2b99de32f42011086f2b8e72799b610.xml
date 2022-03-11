@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description/>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <name>EA Engagement - New - Form state</name>
+        <parameters/>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-11 09:20:17</sys_created_on>
+        <sys_id>a2b99de32f42011086f2b8e72799b610</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EA Engagement - New - Form state</sys_name>
+        <sys_package display_value="EA Engagement" source="x_513020_ea_enga_0">d1a47fb82f8e011086f2b8e72799b6bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EA Engagement">d1a47fb82f8e011086f2b8e72799b6bf</sys_scope>
+        <sys_update_name>sys_atf_test_a2b99de32f42011086f2b8e72799b610</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-11 09:20:17</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=a2b99de32f42011086f2b8e72799b610"/>
+</record_update>
