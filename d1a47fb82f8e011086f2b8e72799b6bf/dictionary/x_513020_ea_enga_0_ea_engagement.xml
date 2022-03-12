@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" label="EA engagement" max_length="40" name="x_513020_ea_enga_0_ea_engagement" type="collection">
+    <element audit="true" label="EA engagement" max_length="40" name="x_513020_ea_enga_0_ea_engagement" sizeclass="13" type="collection">
         <element label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
         <element label="Due Date" mandatory="true" max_length="40" name="due_date" type="glide_date"/>
+        <element attributes="encode_utf8=false" dependent="type" dependent_on_field="type" label="Engagement Type Description" max_length="32" name="engagement_type_description" read_only="true" reference="x_513020_ea_enga_0_ea_engagement_type" type="reference" use_dependent_field="true"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" mandatory="true" max_length="40" name="number" type="string"/>
         <element label="Requester" mandatory="true" max_length="32" name="requester" reference="sys_user" type="reference"/>
-        <element choice="3" default="Architecture Design" label="Type" mandatory="true" max_length="40" name="type" reference="x_513020_ea_enga_0_ea_engagement_type" type="reference">
+        <element choice="3" default="b1cbcbca2f82011086f2b8e72799b60c" label="Type" mandatory="true" max_length="40" name="type" reference="x_513020_ea_enga_0_ea_engagement_type" type="reference">
             <choice/>
         </element>
+        <element attributes="is_multi_text=true,preview_first=true,preview_selector=true" label="New Wiki" max_length="65536" name="u_wiki_text_2" type="wiki_text"/>
         <element label="Work notes" max_length="1000" name="work_notes" type="journal_input"/>
         <index name="index">
             <element name="requester"/>
@@ -16,6 +18,9 @@
         </index>
         <index name="index3">
             <element name="assigned_to"/>
+        </index>
+        <index name="index4">
+            <element name="engagement_type_description"/>
         </index>
     </element>
 </database>

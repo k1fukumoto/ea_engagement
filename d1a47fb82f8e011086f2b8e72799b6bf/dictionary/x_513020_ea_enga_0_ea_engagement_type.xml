@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="EA Engagement Type" max_length="40" name="x_513020_ea_enga_0_ea_engagement_type" sizeclass="5" type="collection">
-        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Description" max_length="1000" name="description" type="string"/>
+        <element display="true" label="Name" mandatory="true" max_length="40" name="name" type="string"/>
         <element label="Practice Lead" max_length="32" name="practice_lead" reference="sys_user" type="reference"/>
         <index name="index">
             <element name="practice_lead"/>

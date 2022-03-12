@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="engagement_type_description" label="Engagement Type Description" language="en" table="x_513020_ea_enga_0_ea_engagement">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>engagement_type_description</element>
+            <help/>
+            <hint/>
+            <label>Engagement Type Description</label>
+            <language>en</language>
+            <name>x_513020_ea_enga_0_ea_engagement</name>
+            <plural>Engagement Type Descriptions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-12 09:17:49</sys_created_on>
+            <sys_id>f0f2a6bb2f42011086f2b8e72799b64f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Engagement Type Description</sys_name>
+            <sys_package display_value="EA Engagement" source="x_513020_ea_enga_0">d1a47fb82f8e011086f2b8e72799b6bf</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EA Engagement">d1a47fb82f8e011086f2b8e72799b6bf</sys_scope>
+            <sys_update_name>sys_documentation_x_513020_ea_enga_0_ea_engagement_engagement_type_description_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-12 09:17:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
