@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Navigate to the 'New' module in the 'EA Engagement' application</description>
+        <display_name>Navigate to Module</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>7</order>
+        <snapshot/>
+        <step_config display_value="Navigate to Module">c832fc4073720300c79260bdfaf6a7a0</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-12 08:10:23</sys_created_on>
+        <sys_id>f07356bb2f02011086f2b8e72799b6ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Navigate to Module</sys_name>
+        <sys_package display_value="EA Engagement" source="x_513020_ea_enga_0">d1a47fb82f8e011086f2b8e72799b6bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EA Engagement">d1a47fb82f8e011086f2b8e72799b6bf</sys_scope>
+        <sys_update_name>sys_atf_step_f07356bb2f02011086f2b8e72799b6ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-12 08:10:23</sys_updated_on>
+        <table>x_513020_ea_enga_0_ea_engagement</table>
+        <test display_value="EA Engagement - New - Form state">a2b99de32f42011086f2b8e72799b610</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=f07356bb2f02011086f2b8e72799b6ec"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>f07356bb2f02011086f2b8e72799b6ec</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-12 08:10:23</sys_created_on>
+        <sys_id>45831abb2f02011086f2b8e72799b602</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-12 08:10:23</sys_updated_on>
+        <value>48a113c12fca411086f2b8e72799b65d</value>
+        <variable display_value="Module">b6d2b40c73720300c79260bdfaf6a786</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_c832fc4073720300c79260bdfaf6a7a0^id=f07356bb2f02011086f2b8e72799b6ec"/>
+</record_update>
